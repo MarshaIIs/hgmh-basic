@@ -1,0 +1,21 @@
+{
+  "name": "heliana",
+  "title": "Heliana's Guide to Monster Hunting FVTT Functionality",
+  "description": "A module that seeks to add implemement content from HGMH into FVTT",
+  "author": "Marshall#0001",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.5",
+  "compatibleCoreVersion": "9",
+  "systems": ["dnd5e"],
+  "scripts": ["scripts/index.js"],
+  "packs": [
+    {
+      "name": "hgmh-items",
+      "label": "HGMH items",
+      "system": "dnd5e",
+      "path": "/packs/hgmh-items.db",
+      "entity": "Item"
+    }
+  ],
+  "url": "https://www.kickstarter.com/projects/saltybot/monsterhunting5e"
+}

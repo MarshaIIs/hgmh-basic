@@ -1,6 +1,6 @@
 # How to use
 
-Dumb the entire "heliana" folder into your Foundry modules folder (C:\Users\[USER]\AppData\Local\FoundryVTT\Data\modules). Dont include this readme
+Dumb the entire "heliana" folder into your Foundry modules folder (C:\Users\[USER]\AppData\Local\FoundryVTT\Data\modules). Dont include this readme  
 Proceed to load up your world and enable the module "Heliana's Guide to Monster Hunting FVTT Functionality"
 
 ## Compendium pack

@@ -1,5 +1,5 @@
 Hooks.on("ready", function() {
-  console.log("DDWR! | DDWR! has been successfully initialised and is ready.");
+  console.log("HGMH | The Heliana module is ready.");
 });
 
 Hooks.on("ready", addExpansionData);
